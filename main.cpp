@@ -2,7 +2,7 @@
 int main()
 {
    printf("Hello, Solar system & Galaxy!");
-   printf("Implemented Elevator Buttons inside Cage");
-   printf("Hope it works.");
+   printf("Implemented request handler");
+   
    return 0;
 }
