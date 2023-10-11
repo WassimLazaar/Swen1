@@ -2,7 +2,7 @@
 int main()
 {
    printf("Hello, Solar system & Galaxy!");
-   printf("Hope it works.");
+   printf("Indication sign.");
    printf("It definitely works!");
    return 0;
 }
