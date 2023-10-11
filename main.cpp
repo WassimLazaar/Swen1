@@ -3,8 +3,8 @@ int main()
 {
    printf("Hello, Solar system & Galaxy!");
 
-   printf("Indication sign.");
-   printf("It definitely works!");
+   printf("Implemented request handler");
+   
 
    return 0;
 }
