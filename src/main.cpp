@@ -2,9 +2,7 @@
 int main()
 {
    printf("Hello, Solar system & Galaxy!");
-
-   printf("Indication sign.");
-   printf("It definitely works!");
-
+   printf("Implemented Elevator Buttons inside Cage");
+   printf("Hope it works.");
    return 0;
 }
