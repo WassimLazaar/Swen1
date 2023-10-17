@@ -6,6 +6,7 @@
 - Matthijs
 
 ## Release Notes
+v1.0 first release <br> 
 v0.9 tested and added organisation handler <br>
 v0.8 tested and added direction sign in cage <br>
 v0.7 tested and added indication sign in cage <br>
